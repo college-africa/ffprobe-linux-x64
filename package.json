@@ -1,0 +1,13 @@
+{
+  "name": "ffprobe-linux-x64",
+  "version": "7.0.1",
+  "repository": "git@github.com:college-africa/ffprobe-linux-x64.git",
+  "author": "Desmond Kyeremeh <elDekyfin@gmail.com>",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "license": "MIT"
+}
