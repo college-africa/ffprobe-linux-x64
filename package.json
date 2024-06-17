@@ -1,6 +1,6 @@
 {
   "name": "ffprobe-linux-x64",
-  "version": "6.1.6",
+  "version": "6.1.7",
   "repository": "git@github.com:college-africa/ffprobe-linux-x64.git",
   "author": "Desmond Kyeremeh <elDekyfin@gmail.com>",
   "scripts": {
